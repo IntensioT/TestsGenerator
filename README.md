@@ -1,4 +1,4 @@
-**MPP FOURTH LAB. TESTS GENERATOR**
+**MPP FOURTH TASK. TESTS GENERATOR**
 
 Here is implemented a multi-threaded test class boilerplate generator for one of the testing libraries (NUnit, xUnit, MSTest) for the classes under test.
 
